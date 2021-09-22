@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/denis/AndroidStudioProjects/CalculatorExample/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/CalculatorExample/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/CalculatorExample/app/src/main/res/drawable/rouded_corner.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/CalculatorExample/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
